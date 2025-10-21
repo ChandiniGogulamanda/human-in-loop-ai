@@ -1,0 +1,6 @@
+fastapi==0.119.0
+uvicorn==0.23.2
+pydantic==2.12.3
+sqlite3  # Built-in with Python; no need to install separately
+livekit==1.0.4  # Real-time SDK for integrating LiveKit's capabilities
+livekit-api==1.0.7  # Server API for generating tokens and managing rooms
