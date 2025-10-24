@@ -8,8 +8,11 @@ If the AI cannot answer a user query, it automatically:
 
 # Technology Stack
 Backend- API	FastAPI
+
 Communication-	LiveKit
+
 Database-	SQLite
+
 Server Runtime-	Uvicorn
 
 # Installation & Setup
